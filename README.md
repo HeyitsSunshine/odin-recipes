@@ -1,2 +1,7 @@
-# odin-recipes
-A directory containing an html website, in all of it's preliminary and juvenile form.
+<DOCTYPE! html>
+    <html>
+        <head>
+            <title>Generating a modest website involving a few of my favorite recipes. Enjoy!</title>
+            <meta charset="UTF-8">
+        </head>
+    <html>
